@@ -1,0 +1,10 @@
+export enum BurgerType {
+  NORMAL,
+  CHEESE,
+  CHICKEN,
+  VEGGIE,
+  DOUBLE,
+  CHEESE_BACON,
+  DOTTECH,
+  GODZILLA,
+}
